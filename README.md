@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cesar
 - 👀 I’m interested in Operations research
 - 🌱 I’m currently learning Physics and Engineering in Computer Systems
-- 📫 How to reach me serpi312015@gmail.com
+- 📫 How to reach me cesarran99@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarRAN&theme=dark&show_icons=true)
 
